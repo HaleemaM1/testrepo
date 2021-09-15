@@ -4,5 +4,5 @@
 }
 
 .grid2 > div:nth-child(odd){
-    background: pink;
+    background: red;
 }
