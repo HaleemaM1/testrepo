@@ -1,0 +1,8 @@
+.grid2 > div {
+    background: pink;
+    padding: 1em;
+}
+
+.grid2 > div:nth-child(odd){
+    background: pink;
+}
